@@ -7,15 +7,15 @@
 - name: LOGO
   value: '/brand-assets/logo.svg'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.chatenvia.com'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.chatenvia.com'
 - name: BRAND_NAME
   value: 'Chatwoot'
 - name: TERMS_URL
-  value: 'https://www.chatwoot.com/terms-of-service'
+  value: 'https://www.chatenvia.com/terms-of-service'
 - name: PRIVACY_URL
-  value: 'https://www.chatwoot.com/privacy-policy'
+  value: 'https://www.chatenvia.com/privacy-policy'
 - name: DISPLAY_MANIFEST
   value: true
 - name: MAILER_INBOUND_EMAIL_DOMAIN

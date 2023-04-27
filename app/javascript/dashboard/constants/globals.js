@@ -21,8 +21,8 @@ export default {
     CONDENSED: 'condensed',
     EXPANDED: 'expanded',
   },
-  DOCS_URL: '//www.chatwoot.com/docs/product/',
-  TESTIMONIAL_URL: 'https://testimonials.cdn.chatwoot.com/content.json',
+  DOCS_URL: 'https://www.chatenvia.com/',
+  TESTIMONIAL_URL: 'https://testimonials.cdn.chatenvia.com/content.json',
   SMALL_SCREEN_BREAKPOINT: 1024,
   AVAILABILITY_STATUS_KEYS: ['online', 'busy', 'offline'],
 };

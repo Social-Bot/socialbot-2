@@ -4,11 +4,11 @@ describe('PortalHelper', () => {
   describe('buildPortalURL', () => {
     it('returns the correct url', () => {
       window.chatwootConfig = {
-        hostURL: 'https://app.chatwoot.com',
-        helpCenterURL: 'https://help.chatwoot.com',
+        hostURL: 'https://app.chatenvia.com',
+        helpCenterURL: 'https://help.chatenvia.com',
       };
       expect(buildPortalURL('handbook')).toEqual(
-        'https://help.chatwoot.com/hc/handbook'
+        'https://help.chatenvia.com/hc/handbook'
       );
       window.chatwootConfig = {};
     });
@@ -17,11 +17,11 @@ describe('PortalHelper', () => {
   describe('buildPortalArticleURL', () => {
     it('returns the correct url', () => {
       window.chatwootConfig = {
-        hostURL: 'https://app.chatwoot.com',
-        helpCenterURL: 'https://help.chatwoot.com',
+        hostURL: 'https://app.chatenvia.com',
+        helpCenterURL: 'https://help.chatenvia.com',
       };
       expect(buildPortalArticleURL('handbook', 'culture', 'fr', 1)).toEqual(
-        'https://help.chatwoot.com/hc/handbook/fr/culture/1'
+        'https://help.chatenvia.com/hc/handbook/fr/culture/1'
       );
       window.chatwootConfig = {};
     });

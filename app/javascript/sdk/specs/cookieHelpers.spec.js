@@ -18,7 +18,7 @@ describe('#getUserString', () => {
         user: {
           name: 'Pranav',
           email: 'pranav@example.com',
-          avatar_url: 'https://images.chatwoot.com/placeholder',
+          avatar_url: 'https://images.chatenvia.com/placeholder',
           identifier_hash: '12345',
         },
         identifier: '12345',
