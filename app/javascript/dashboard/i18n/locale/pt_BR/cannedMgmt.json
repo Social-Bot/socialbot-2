@@ -1,12 +1,12 @@
 {
   "CANNED_MGMT": {
-    "HEADER": "Atalhos",
+    "HEADER": "Atalhos R�pidos",
     "HEADER_BTN_TXT": "Adicionar Atalho",
     "LOADING": "Buscando Atalhos",
     "SEARCH_404": "Não existem itens correspondentes a esta consulta",
-    "SIDEBAR_TXT": "<p><b>Respostas Prontas</b> </p><p> Respostas Prontas são templates de resposta salvos que podem ser usados para enviar rapidamente uma resposta a uma conversa. </p><p> Para criar uma Resposta Pronta, clique no <b>Adicionar Resposta Pronta</b>. Você também pode editar ou excluir uma resposta existente clicando no botão Editar ou Excluir </p><p> respostas prontas são usadas com a ajuda de <b>Código Curto</b>. Os agentes podem acessar as respostas prontas enquanto estiverem em um chat digitando <b>'/'</b> seguido pelo pequeno código. </p>",
+    "SIDEBAR_TXT": "<p><b>Atalhos R�pidos</b> </p><p> Atalhos r�pidos são templates de resposta salvos que podem ser usados para enviar rapidamente uma resposta a uma conversa. </p><p> Para criar uma atalho r�pido, clique no <b>Adicionar atalho</b>. Você também pode editar ou excluir um atalho r�pido criado clicando no botão Editar ou Excluir </p><p> Atalhos r�pidos são usados com a ajuda de <b>c�digo curto</b>. Os agentes podem acessar os atalhos r�pidos enquanto estiverem em um chat digitando <b>'/'</b> seguido pelo pequeno código. </p>",
     "LIST": {
-      "404": "Não há atalhos disponíveis nesta conta.",
+      "404": "Não há atalhos r�pidos disponíveis nesta conta.",
       "TITLE": "Gerenciar Atalhos",
       "DESC": "Atalhos são modelos de resposta que podem ser usados ​​para enviar rapidamente respostas à conversa.",
       "TABLE_HEADER": [
@@ -17,7 +17,7 @@
     },
     "ADD": {
       "TITLE": "Adicionar Atalho",
-      "DESC": "Respostas prontas são modelos de resposta salvos que podem ser usados para enviar rapidamente uma resposta para conversa.",
+      "DESC": "Atalhos r�pidos são modelos de resposta salvos que podem ser usados para enviar rapidamente uma resposta para conversa.",
       "CANCEL_BUTTON_TEXT": "Cancelar",
       "FORM": {
         "SHORT_CODE": {
@@ -34,7 +34,7 @@
       },
       "API": {
         "SUCCESS_MESSAGE": "Atalho adicionado com sucesso",
-        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor, por favor tente novamente mais tarde"
       }
     },
     "EDIT": {
@@ -56,20 +56,20 @@
       "BUTTON_TEXT": "Alterar",
       "API": {
         "SUCCESS_MESSAGE": "Atalho atualizado com sucesso",
-        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor, por favor tente novamente mais tarde"
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "Excluir",
       "API": {
         "SUCCESS_MESSAGE": "Atalho excluído com sucesso",
-        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor, por favor tente novamente mais tarde"
       },
       "CONFIRM": {
         "TITLE": "Confirmar exclusão",
         "MESSAGE": "Você tem certeza que deseja excluir ",
-        "YES": "Sim, excluir ",
-        "NO": "Não, Mantenha "
+        "YES": "Sim ",
+        "NO": "N�o "
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "ATTRIBUTES_MGMT": {
-    "HEADER": "Atributos Personalizados",
-    "HEADER_BTN_TXT": "Criar atributo personalizado",
+    "HEADER": "Atributos personalizados",
+    "HEADER_BTN_TXT": "Criar novo atributo",
     "LOADING": "Buscando atributos",
-    "SIDEBAR_TXT": "<p><b>Atributos personalizados</b> <p>Um atributo customizado rastreia fatos sobre seus contatos/conversa — como o plano de inscrição, ou quando eles compraram o primeiro item, etc. <br /><br />Para criar um atributo personalizado, basta clicar no<b>Adicionar atributo personalizado.</b> Você também pode editar ou apagar um atributo existente clicando em Editar ou Apagar botão.</p>",
+    "SIDEBAR_TXT": "<p><b>Atributos personalizados</b> <p>Um atributo customizado rastreia fatos sobre seus contatos/conversa — como o plano de inscrição, ou quando eles compraram o primeiro item, etc. <br /><br />Para criar um atributo, basta clicar em <b>Criar atributo.</b> Você também pode editar ou apagar um atributo j� criado.</p>",
     "ADD": {
       "TITLE": "Adicionar atributo personalizado",
       "SUBMIT": "Criar",
@@ -75,7 +75,7 @@
       }
     },
     "TABS": {
-      "HEADER": "Atributos Personalizados",
+      "HEADER": "Atributos personalizados",
       "CONVERSATION": "Conversas",
       "CONTACT": "Contato"
     },

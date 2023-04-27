@@ -45,7 +45,7 @@
     "SEND_TRANSCRIPT": "Enviar Transcrição",
     "EDIT_LABEL": "Alterar",
     "SIDEBAR_SECTIONS": {
-      "CUSTOM_ATTRIBUTES": "Atributos Personalizados",
+      "CUSTOM_ATTRIBUTES": "Atributos",
       "CONTACT_LABELS": "Etiquetas de contato",
       "PREVIOUS_CONVERSATIONS": "Conversas anteriores"
     }
@@ -290,7 +290,7 @@
       "CREATE": "Adicionar atributo",
       "CANCEL": "Cancelar",
       "NAME": {
-        "LABEL": "Atributos Personalizados",
+        "LABEL": "Atributos personalizados",
         "PLACEHOLDER": "Por exemplo: ID shopify",
         "ERROR": "Nome de atributo personalizado inválido"
       },
